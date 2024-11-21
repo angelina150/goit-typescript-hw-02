@@ -1,0 +1,26 @@
+.header {
+  background-color: rgb(71, 166, 183);
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  background-color: inherit;
+  border: none;
+  height: 30px;
+  margin-right: 5px;
+}
+.button:hover {
+  transform: scale(1.2);
+}
+.input {
+  height: 20px;
+  width: 250px;
+  border: none;
+  outline: none;
+  padding: 3px;
+}
